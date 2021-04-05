@@ -28,6 +28,11 @@ img{
 .book h1{
     margin-top: 0.5rem;
 }
+.book h3{
+    font-size: 0.75rem;
+    opacity: 0.7;
+    margin-top: 0.25rem;
+}
 
 
 @media screen and (min-width: 768px) {
